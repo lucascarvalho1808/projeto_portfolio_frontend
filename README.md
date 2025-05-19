@@ -11,7 +11,7 @@ Este é um projeto simples de portfólio desenvolvido para apresentar meus traba
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/lucascarvalho1808/projeto_portfolio_frontend-.git
+   git clone https://github.com/lucascarvalho1808/projeto_portfolio_frontend.git
    ```
 2. Abra o arquivo `index.html` no seu navegador — não é necessário instalar dependências!
 
@@ -35,7 +35,7 @@ This is a simple portfolio project developed to showcase my work, skills, and ex
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/lucascarvalho1808/projeto_portfolio_frontend-.git
+   git clone https://github.com/lucascarvalho1808/projeto_portfolio_frontend.git
    ```
 2. Open the `index.html` file in your browser — no dependencies needed!
 
