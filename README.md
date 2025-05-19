@@ -15,6 +15,11 @@ Este é um projeto simples de portfólio desenvolvido para apresentar meus traba
    ```
 2. Abra o arquivo `index.html` no seu navegador — não é necessário instalar dependências!
 
+## 🌐 Visualização Online
+
+Acesse o projeto pelo GitHub Pages:  
+[https://lucascarvalho1808.github.io/projeto_portfolio_frontend-](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-)
+
 ---
 
 # 🎨 Portfolio Frontend Project
@@ -33,3 +38,8 @@ This is a simple portfolio project developed to showcase my work, skills, and ex
    git clone https://github.com/lucascarvalho1808/projeto_portfolio_frontend-.git
    ```
 2. Open the `index.html` file in your browser — no dependencies needed!
+
+## 🌐 Live Preview
+
+View the project on GitHub Pages:  
+[https://lucascarvalho1808.github.io/projeto_portfolio_frontend-](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-)
