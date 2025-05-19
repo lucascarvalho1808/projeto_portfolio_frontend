@@ -18,7 +18,7 @@ Este é um projeto simples de portfólio desenvolvido para apresentar meus traba
 ## 🌐 Visualização Online
 
 Acesse o projeto pelo GitHub Pages:  
-[https://lucascarvalho1808.github.io/projeto_portfolio_frontend-](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-)
+[https://lucascarvalho1808.github.io/projeto_portfolio_frontend](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-/)
 
 ---
 
@@ -42,4 +42,4 @@ This is a simple portfolio project developed to showcase my work, skills, and ex
 ## 🌐 Live Preview
 
 View the project on GitHub Pages:  
-[https://lucascarvalho1808.github.io/projeto_portfolio_frontend-](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-)
+[https://lucascarvalho1808.github.io/projeto_portfolio_frontend](https://lucascarvalho1808.github.io/projeto_portfolio_frontend-/)
