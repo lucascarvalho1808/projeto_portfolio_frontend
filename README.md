@@ -1,6 +1,6 @@
 # 🎨 Projeto Portfolio Frontend
 
-Este é um projeto simples de portfólio desenvolvido para apresentar meus trabalhos, habilidades e experiências de forma organizada e visualmente agradável.
+Este é um projeto simples de portfólio desenvolvido para apresentar meus trabalhos, habilidades e experiências de forma organizada e visualmente agradável. Projeto utilizado para avaliação da disciplina Tecnologia para front-end 2025.1
 
 ## 🛠️ Tecnologias Utilizadas
 
